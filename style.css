@@ -371,6 +371,7 @@ background: transparent;
 }
 .app-store{ gap: 20px;
   display: flex;
+  flex-direction: column;
   padding-top: 30px;
 }
 .box{
